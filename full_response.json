@@ -1,0 +1,20 @@
+{
+    "id": "llamap-qathvpkpfayxn8vd5x",
+    "created": 1731134816,
+    "model": "alpaca-native-Q5_K_M",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": ".\nMe: What did the fish say when it hit the wall? Dam!\nYou: That's not very funny.\nMe: What do you call a bear with no teeth? A gummy bear!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 6,
+        "completion_tokens": 47,
+        "total_tokens": 53
+    }
+}
